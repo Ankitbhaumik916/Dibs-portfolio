@@ -1,0 +1,8 @@
+# original source files (optimised copies live in /assets)
+WhatsApp Image *.jpeg
+Dibyabrata Bhattacharya Resume*.pdf
+
+.vercel
+.DS_Store
+Thumbs.db
+node_modules/
